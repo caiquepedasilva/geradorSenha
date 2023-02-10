@@ -13,4 +13,4 @@ Um site que gera senha aleatória com a possibilidade de tamanho entre 05 e 25 c
 
 ## Capturas de tela
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imagem do Gerador de Senha](https://user-images.githubusercontent.com/75095787/218166497-1507e1f6-6d43-44b0-a7e3-c93559017d3b.png)
